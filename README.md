@@ -5,7 +5,7 @@ SocialPedia is a Full Stack MERN social media app where you can share thoughts, 
 # Frontend
 
 - React
-- Material Icons
+- Material UI
 - Redux Toolkit
 - Formik
 - React-Dropzone
